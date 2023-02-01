@@ -1,0 +1,49 @@
+//#include <iostream>
+//using namespace std;
+//int main() {
+//	int sk1, sk2;
+//	cout << "enter two numbers;)" << endl;
+//	cin >> sk1 >> sk2;
+//	if (sk1 > sk2)
+//		cout << " sk1 max,sk2 min ";
+//	else
+//		cout << " sk1 min,sk2 max ";
+//
+//	if (sk1 > 0)
+//		cout << " sk1 pozitivs ";
+//	else cout << " sk1 negativs ";
+//
+//	if (sk2 > 0)
+//		cout << " sk2 pozitivs ";
+//	else cout << " sk2 negativs ";
+//
+//	if (sk1 % 2 == 0)
+//		cout << " sk1 para ";
+//	else cout << "sk1 nepara ";
+//
+//	if (sk2 % 2 == 0)
+//		cout << "sk2 para";
+//	else cout << "sk2 nepara";
+//}
+
+
+//#include <iostream>
+//using namespace std;
+//int main() {
+//	int atz;
+//	cout << "enter your procents" << endl;
+//	cin >> atz;
+//
+//	if (atz >= 90 && atz << 100)
+//		cout << "your grade is A";
+//	if (atz >= 80 && atz << 90)
+//		cout << "your grade is B";
+//	if (atz >= 70 && atz << 80)
+//		cout << "your grade is c";
+//	if (atz >= 60 && atz << 70)
+//		cout << "your grade is D";
+//	if (atz >= 50 && atz << 60)
+//		cout << "your grade is E";
+//	if (atz >= 40 && atz << 50)
+//		cout << "your grade is F";
+//}
