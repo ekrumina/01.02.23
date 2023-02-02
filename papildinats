@@ -1,0 +1,65 @@
+//#include <iostream>
+//using namespace std;
+//int main() {
+//	int sk1, sk2;
+//	cout << "enter number 1-7" << endl;
+//	cin >> sk1;
+//	cout << "enter number 1-12" << endl;
+//	cin >> sk2;
+//	if (sk1 == 1)
+//		cout << " Monday, ";
+//	if (sk1 == 2)
+//		cout << " Tuesday, ";
+//	if (sk1 == 3)
+//		cout << " Wednesday, ";
+//	if (sk1 == 4)
+//	    cout << " Thursday, ";
+//	if (sk1 == 5)
+//		cout << " Friday, ";
+//	if (sk1 == 6)
+//		cout << " Saturday, ";
+//	if (sk1 == 7)
+//		cout << " Sunday, ";
+//
+//	if (sk2==1)
+//		cout << " January. ";
+//	if (sk2 == 2)
+//		cout << " February. ";
+//	if (sk2 == 3)
+//		cout << " March. ";
+//	if (sk2 == 4)
+//		cout << " April. ";
+//	if (sk2 == 5)
+//		cout << " May. ";
+//	if (sk2 == 6)
+//		cout << " June. ";
+//	if (sk2 == 7)
+//		cout << " July. ";
+//	if (sk2 == 8)
+//		cout << " August. ";
+//	if (sk2 == 9)
+//		cout << " September. ";
+//	if (sk2 == 10)
+//		cout << " October. ";
+//	if (sk2 == 11)
+//		cout << " November. ";
+//	if (sk2 == 12)
+//		cout << " December. ";
+//}
+
+
+//#include <iostream>
+//using namespace std;
+//int main() {
+//	int m1, m2, m3;
+//	cout << "enter first side";
+//	cin >> m1;
+//	cout << "enter second side";
+//	cin >> m2;
+//	cout << "enter third side";
+//	cin >> m3;
+//	if (m1 == m2 &&m2==m3)
+//		cout << "trijsturis ir vienadmalu";
+//	if (m1 == m2 || m2 == m3 || m3 == m1)
+//		cout << "trijsturis ir vienadsanu";
+//}
